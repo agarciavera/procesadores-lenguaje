@@ -8,10 +8,10 @@ Final PECL for "Procesadores del Lenguaje" for course 2016/2017
 
 ### Get up and running
 Put in your terminal:
-´´´bash
+```bash
 java JLex.Main lex.lex
 javac lex.lex.java
-´´´
+```
 
 You can analyze tests created or create new tests.
 If you want analyzer, for example, the `test1.txt` you put in a terminal
